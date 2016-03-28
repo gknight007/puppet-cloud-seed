@@ -1,0 +1,1 @@
+# puppet-cloud-seed
